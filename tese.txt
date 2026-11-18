@@ -1,1 +1,2 @@
 dia 1 - primeiro exemplo
+dia 2 - alteração feita na outra máquina
