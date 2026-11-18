@@ -1,0 +1,1 @@
+Arquivo que será alterado tanto no local quanto no remoto
