@@ -1,2 +1,3 @@
 Arquivo que será alterado tanto no local quanto no remoto
 - linha que inseri no arquivo local
+- Linha que inseri na versao remota
